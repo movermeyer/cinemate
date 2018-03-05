@@ -94,6 +94,6 @@ Cinemate - реализация API сайта `cinemate.cc`_ на языке py
 .. |coverage| image:: http://coveralls.io/repos/Pentusha/cinemate/badge.svg?branch=master
    :alt: Tests Coverage
    :target: https://coveralls.io/r/Pentusha/cinemate
-.. |wheel| image:: http://pypip.in/wheel/cinemate/badge.svg?style=flat
+.. |wheel| image:: https://img.shields.io/pypi/wheel/cinemate.svg?style=flat
    :alt: Wheel Status
    :target: https://pypi.python.org/pypi/cinemate/
